@@ -77,17 +77,16 @@
     <div class="aboutus container-fluid mt-5 ">
         <div class="row">
             <div class="col-md-7">
-                <h2 class="heading2 text-center animate__animated animate__fadeInDown ">What is Sanjalika Water Park?</h2>
-                <p class="paragraph ms-3 mt-3 me-3 text-center animate__animated animate__fadeInUp">Sanjalika Water Park is a dazzling oasis of aquatic fun
-                    and relaxation nestled in the heart of a tropical paradise. With its lush green surroundings and a
-                    wide array of exhilarating water attractions, Sanjalika is the perfect destination for families,
-                    thrill-seekers, and those looking to escape the scorching summer heat. The park boasts an impressive
-                    lineup of water slides, lazy rivers, and wave pools that promise endless entertainment and
-                    refreshing respite. Whether you're plummeting down heart-pounding slides, basking in the sun on a
-                    tranquil river float, or enjoying delicious refreshments at the poolside cafe, Sanjalika offers an
-                    unforgettable aquatic experience that will leave you with lasting memories of summer bliss. Come and
-                    dive into a world of aquatic adventure at Sanjalika Water Park, where fun and relaxation unite to
-                    create the ultimate water park getaway.</p>
+                <h2 class="heading2 text-center animate__animated animate__fadeInDown ">What is Lawful?</h2>
+                <p class="paragraph ms-3 mt-3 me-3 text-center animate__animated animate__fadeInUp">Our people are pioneering, incisive, accountable and fearless in our commitment to create success for our clients. 
+
+We provide a new level of legal services that bridges the gap between the law and modern business reality. 
+
+These are assertions made without the proof to back them up. In order to break down the barriers of distrust among prospects, it’s not enough to make a statement and hope for the best. 
+
+Tiger Woods doesn’t go around telling people he’s the best golfer. He walks out on the golf course and scores a hole in one. Likewise, the best law firm websites show – not tell – prospects that they can deliver on their promises. 
+
+For example, this law firm website claims to offer a new level of legal services. Explaining what this service is and how it’s different from a law firm’s standard practice areas helps Lawful gain credibility and trust.</p>
             </div>
             <div class="col-md-5 mx-auto d-flex justify-content-center align-items-center">
 
